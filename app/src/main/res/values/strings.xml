@@ -1,0 +1,251 @@
+<resources>
+    <string name="app_name">Moje państwa</string>
+    <string name="podpowiedz">Prosze podać państwo...</string>
+    <string name="potwiedz">Potwierdź</string>
+    <string name="wprowadzony_text">Wprowadzone państow to:</string>
+
+    <string-array name="Państwa_array">
+        <item>Chińska Republika Ludowa</item>
+        <item>Indie</item>
+        <item>Stany Zjednoczone</item>
+        <item>Indonezja</item>
+        <item>Brazylia</item>
+        <item>Pakistan</item>
+        <item>Nigeria</item>
+        <item>Bangladesz</item>
+        <item>Rosja</item>
+        <item>Japonia</item>
+        <item>Meksyk</item>
+        <item>Etiopia</item>
+        <item>Filipiny</item>
+        <item>Egipt</item>
+        <item>Wietnam</item>
+        <item>Demokratyczna Republika Konga</item>
+        <item>Iran</item>
+        <item>Turcja</item>
+        <item>Niemcy</item>
+        <item>Tajlandia</item>
+        <item>Francja</item>
+        <item>Wielka Brytania</item>
+        <item>Włochy</item>
+        <item>Mjanma</item>
+        <item>Tanzania</item>
+        <item>Południowa Afryka</item>
+        <item>Korea Południowa</item>
+        <item>Hiszpania</item>
+        <item>Kenia</item>
+        <item>Kolumbia</item>
+        <item>Argentyna</item>
+        <item>Sudan</item>
+        <item>Algieria</item>
+        <item>Uganda</item>
+        <item>Irak</item>
+        <item>Polska</item>
+        <item>Ukraina</item>
+        <item>Kanada</item>
+        <item>Afganistan</item>
+        <item>Maroko</item>
+        <item>Arabia Saudyjska</item>
+        <item>Malezja</item>
+        <item>Wenezuela</item>
+        <item>Peru</item>
+        <item>Angola</item>
+        <item>Uzbekistan</item>
+        <item>Nepal</item>
+        <item>Jemen</item>
+        <item>Ghana</item>
+        <item>Mozambik</item>
+        <item>Wybrzeże Kości Słoniowej</item>
+        <item>Madagaskar</item>
+        <item>Kamerun</item>
+        <item>Korea Północna</item>
+        <item>Republika Chińska (-15 social credits)</item>
+        <item>Australia</item>
+        <item>Sri Lanka</item>
+        <item>Rumunia</item>
+        <item>Niger</item>
+        <item>Malawi</item>
+        <item>Burkina Faso</item>
+        <item>Syria</item>
+        <item>Kazachstan</item>
+        <item>Mali</item>
+        <item>Chile</item>
+        <item>Holandia</item>
+        <item>Gwatemala</item>
+        <item>Ekwador</item>
+        <item>Kambodża</item>
+        <item>Zambia</item>
+        <item>Czad</item>
+        <item>Senegal</item>
+        <item>Zimbabwe</item>
+        <item>Rwanda</item>
+        <item>Gwinea</item>
+        <item>Burundi</item>
+        <item>Belgia</item>
+        <item>Tunezja</item>
+        <item>Benin</item>
+        <item>Boliwia</item>
+        <item>Somalia</item>
+        <item>Kuba</item>
+        <item>Haiti</item>
+        <item>Grecja</item>
+        <item>Czechy</item>
+        <item>Jordania</item>
+        <item>Portugalia</item>
+        <item>Dominikana</item>
+        <item>Sudan Południowy</item>
+        <item>Azerbejdżan</item>
+        <item>Szwecja</item>
+        <item>Węgry</item>
+        <item>Zjednoczone Emiraty Arabskie</item>
+        <item>Białoruś</item>
+        <item>Honduras</item>
+        <item>Austria</item>
+        <item>Tadżykistan</item>
+        <item>Izrael</item>
+        <item>Szwajcaria</item>
+        <item>Togo</item>
+        <item>Laos</item>
+        <item>Hongkong (-15 social credits)</item>
+        <item>Serbia</item>
+        <item>Bułgaria</item>
+        <item>Papua-Nowa Gwinea</item>
+        <item>Paragwaj</item>
+        <item>Libia</item>
+        <item>Sierra Leone</item>
+        <item>Salwador</item>
+        <item>Liban</item>
+        <item>Nikaragua</item>
+        <item>Singapur</item>
+        <item>Erytrea</item>
+        <item>Kirgistan</item>
+        <item>Dania</item>
+        <item>Republika Środkowoafrykańska</item>
+        <item>Finlandia</item>
+        <item>Słowacja</item>
+        <item>Turkmenistan</item>
+        <item>Norwegia</item>
+        <item>Irlandia</item>
+        <item>Kongo</item>
+        <item>Kostaryka</item>
+        <item>Gruzja</item>
+        <item>Liberia</item>
+        <item>Oman</item>
+        <item>Nowa Zelandia</item>
+        <item>Chorwacja</item>
+        <item>Bośnia i Hercegowina</item>
+        <item>Mauretania</item>
+        <item>Panama</item>
+        <item>Mołdawia</item>
+        <item>Urugwaj</item>
+        <item>Portoryko</item>
+        <item>Mongolia</item>
+        <item>Albania</item>
+        <item>Armenia</item>
+        <item>Kuwejt</item>
+        <item>Jamajka</item>
+        <item>Litwa</item>
+        <item>Namibia</item>
+        <item>Katar</item>
+        <item>Botswana</item>
+        <item>Gabon</item>
+        <item>Macedonia Północna</item>
+        <item>Słowenia</item>
+        <item>Gambia</item>
+        <item>Lesotho</item>
+        <item>Łotwa</item>
+        <item>Kosowo</item>
+        <item>Gwinea Bissau</item>
+        <item>Bahrajn</item>
+        <item>Mauritius</item>
+        <item>Timor Wschodni</item>
+        <item>Estonia</item>
+        <item>Cypr</item>
+        <item>Trynidad i Tobago</item>
+        <item>Eswatini</item>
+        <item>Fidżi</item>
+        <item>Dżibuti</item>
+        <item>Komory</item>
+        <item>Gwinea Równikowa</item>
+        <item>Bhutan</item>
+        <item>Gujana</item>
+        <item>Wyspy Salomona</item>
+        <item>Sahara Zachodnia</item>
+        <item>Czarnogóra</item>
+        <item>Makau</item>
+        <item>Luksemburg</item>
+        <item>Surinam</item>
+        <item>Republika Zielonego Przylądka</item>
+        <item>Brunei</item>
+        <item>Malta</item>
+        <item>Malediwy</item>
+        <item>Belize</item>
+        <item>Islandia</item>
+        <item>CTRL + C</item>
+        <item>Bahamy</item>
+        <item>Barbados</item>
+        <item>Polinezja Francuska</item>
+        <item>Vanuatu</item>
+        <item>Nowa Kaledonia</item>
+        <item>Wyspy Świętego Tomasza i Książęca</item>
+        <item>Samoa</item>
+        <item>Guam</item>
+        <item>Saint Lucia</item>
+        <item>Curaçao</item>
+        <item>Aruba</item>
+        <item>Grenada</item>
+        <item>Kiribati</item>
+        <item>Wyspy Dziewicze</item>
+        <item>Tonga</item>
+        <item>Mikronezja</item>
+        <item>Saint Vincent i Grenadyny</item>
+        <item>Jersey</item>
+        <item>Antigua i Barbuda</item>
+        <item>Seszele</item>
+        <item>Wyspa Man</item>
+        <item>CTRL + V</item>
+        <item>Andora</item>
+        <item>Wyspy Marshalla</item>
+        <item>Dominika</item>
+        <item>Bermudy</item>
+        <item>Guernsey</item>
+        <item>Kajmany</item>
+        <item>Grenlandia</item>
+        <item>Turks i Caicos</item>
+        <item>Saint Kitts i Nevis</item>
+        <item>Mariany Północne</item>
+        <item>Wyspy Owcze</item>
+        <item>Samoa Amerykańskie</item>
+        <item>Sint Maarten</item>
+        <item>Liechtenstein</item>
+        <item>Brytyjskie Wyspy Dziewicze</item>
+        <item>San Marino</item>
+        <item>Saint-Martin[a]</item>
+        <item>Monako</item>
+        <item>Gibraltar</item>
+        <item>Palau</item>
+        <item>Anguilla</item>
+        <item>Wallis i Futuna</item>
+        <item>Tuvalu</item>
+        <item>Nauru</item>
+        <item>Wyspy Cooka</item>
+        <item>Wyspa Świętej Heleny, Wyspa Wniebowstąpienia i Tristan da Cunha</item>
+        <item>Saint-Barthélemy[a]</item>
+        <item>Saint-Pierre i Miquelon</item>
+        <item>Montserrat</item>
+        <item>Falklandy</item>
+        <item>Svalbard</item>
+        <item>Wyspa Bożego Narodzenia</item>
+        <item>Norfolk</item>
+        <item>Niue</item>
+        <item>Tokelau</item>
+        <item>Watykan</item>
+        <item>Wyspy Kokosowe</item>
+        <item>Majotta</item>
+        <item>Dhekelia</item>
+        <item>Akrotiri</item>
+        <item>Pitcairn</item>
+        <item>Georgia Południowa i Sandwich Południowy</item>
+
+    </string-array>
+</resources>
